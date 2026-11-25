@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T04:06:41.127Z",
+  "slug": "share-google",
+  "name": "Effective Electrical | Sumner Electrical and Heat pumps",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Electricians",
+    "niche": "electricians",
+    "group": "Trades & construction"
+  },
+  "contact": {
+    "phone": "+64211080692",
+    "email": "connor@effectiveelectrical.co.nz",
+    "address": "9 Duncan St, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/556082750917371",
+    "youtube": "https://www.youtube.com/watch"
+  },
+  "about": {
+    "overview": "Neon brings frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows."
+  },
+  "before": {
+    "url": "https://share.google/mCqqaWOH2ExwNsLft",
+    "domain": "share.google",
+    "finalUrl": "https://www.google.com/search?client=safari&hs=nWTU&sca_esv=7b47fbbfd466f0de&hl=en-nz&kgmid=/g/11ww6b53_h&q=Effective+Electrical+%7C+Sumner+Electrical+and+Heat+pumps&shem=ptotplc,shrtsdl&shndl=30&source=sh/x/loc/uni/m1/1&kgs=707b24d0aeb1ab3d&utm_source=ptotplc,shrtsdl,sh/x/loc/uni/m1/1",
+    "title": "Google Search",
+    "pages": 2,
+    "score": 56,
+    "assessedAt": "2026-11-24T13:21:21.456Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/effective-electrical-sumner-electrical-and-heat/",
+    "repoUrl": "https://github.com/tova-studio/effective-electrical-sumner-electrical-and-heat",
+    "generator": "claude",
+    "accent": "#1558d6",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T04:06:41.127Z"
+  }
+}
